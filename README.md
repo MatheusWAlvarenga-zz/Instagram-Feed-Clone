@@ -6,5 +6,5 @@
 
 #### Definition:
 
-Cloned the Instagram`s Feed using concepts such as: preloading images with blur, lazy loading, infinite scroll, pull to refresh and animations.
+Cloned the Instagram's Feed using concepts such as: preloading images with blur, lazy loading, infinite scroll, pull to refresh and animations.
 
